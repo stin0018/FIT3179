@@ -1,80 +1,80 @@
 museum,country,city,visitors,latitude,longitude
-The Louvre (Paris),France,Paris,9600000.0,48.866667,2.333333
-National Museum of China,China,Beijing,7390000.0,39.928889,116.388333
-Vatican Museums,Holy See,Vatican City,6882931.0,,
-Museum of Modern Art (New York),United States,New York,6479548.0,40.7141667,-74.0063889
-British Museum,United Kingdom,London,6239983.0,51.514125,-0.093689
-Tate Museums,United Kingdom,London,6098340.0,51.514125,-0.093689
-National Gallery (London),United Kingdom,London,6011007.0,51.514125,-0.093689
-Natural History Museum,United Kingdom,London,5424000.0,51.514125,-0.093689
-American Museum of Natural History,United States,New York,5000000.0,40.7141667,-74.0063889
-State Hermitage Museum,Russia,Saint Petersburg,4956529.0,59.894444,30.264167
-Shanghai Science and Technology Museum,China,Shanghai,4824000.0,31.045556,121.399722
-Museo Reina Sofía,Spain,Madrid,4425699.0,40.408566,-3.69222
-Guangdong Museum of Revolutionary History,China,Guangzhou,4257100.0,23.116667,113.25
-National Museum of Natural History,United States,Washington,4200000.0,38.895,-77.0366667
-Nanjing Museum,China,Nanjing,4169000.0,32.061667,118.777778
-Zhejiang Museum,China,Hangzhou,4150000.0,30.29365,120.161419
-Victoria and Albert Museum,United Kingdom,London,3932938.0,51.514125,-0.093689
-China Science and Technology Museum,China,Beijing,3891000.0,39.928889,116.388333
-Military Museum of the Chinese People's Revolution,China,Beijing,3870000.0,39.928889,116.388333
-National Palace Museum,Taiwan,Taipei,3832373.0,25.0391667,121.525
-Shenzhen Museum,China,Shenzhen,3826000.0,22.533333,114.133333
-Musée d'Orsay,France,Paris,3651616.0,48.866667,2.333333
-Museo del Prado,Spain,Madrid,3497345.0,40.408566,-3.69222
-Mevlana Museum,Turkey,Konya,3464155.0,37.871354,32.484636
-Xi'an Museum,China,Xian,3420000.0,34.258333,108.928611
-National Museum of Korea,Korea,Seoul,3354161.0,37.5985,126.9783
-Centre Pompidou,France,Paris,3273867.0,48.866667,2.333333
-London Science Museum,United Kingdom,London,3254000.0,51.514125,-0.093689
-National Air and Space Museum,United States,Washington,3200000.0,38.895,-77.0366667
-Tianjin Natural History Museum,China,Tianjin,3150000.0,39.142222,117.176667
-Hunan Museum,China,Changsha,3140000.0,,
-Moscow Kremlin Museums,Russia,Moscow,3101550.0,55.752222,37.615556
-National Museum of Anthropology,Mexico,Mexico,3086555.0,19.434167,-99.138611
-National Taiwan Science Education Center,Taiwan,Taipei,3000000.0,25.0391667,121.525
-Royal Museums Greenwich,United Kingdom,London,2906000.0,51.514125,-0.093689
-Shaanxi History Museum,China,Xian,2900000.0,34.258333,108.928611
-Tokyo Metropolitan Art Museum,Japan,Tokyo,2873806.0,35.685,139.751389
-Somerset House,United Kingdom,London,2841772.0,51.514125,-0.093689
-Tretyakov Gallery,Russia,Moscow,2835836.0,55.752222,37.615556
-National Museum of History,Mexico,Mexico,2811646.0,19.434167,-99.138611
-National Museum of American History,United States,Washington,2800000.0,38.895,-77.0366667
-Rijksmuseum,Netherlands,Amsterdam,2700000.0,52.35,4.916667
-Tokyo National Museum,Japan,Tokyo,2684754.0,35.685,139.751389
-National Museum of Natural Science,Taiwan,Taichung,2650000.0,24.1433333,120.6813889
-Chongqing Museum of Natural History,China,Chongqing,2624700.0,29.562778,106.552778
-Centro Cultural Banco do Brasil,Brazil,Rio de Janeiro,2606999.0,-22.9,-43.233333
-Shanghai Natural History Museum,China,Shanghai,2549000.0,31.045556,121.399722
-National Museum of Nature and Science,Japan,Tokyo,2460000.0,35.685,139.751389
-Zhejiang Museum of Natural History,China,Hangzhou,2443000.0,30.29365,120.161419
-NGV International,Australia,Melbourne,2432883.0,-37.813938,144.963425
-Hubei Provincial Museum,China,Wuhan,2400000.0,30.580125,114.273405
-Russian Museum,Russia,Saint Petersburg,2394400.0,59.894444,30.264167
-Cité des Sciences et de l'Industrie,France,Paris,2370000.0,48.866667,2.333333
-Galleria degli Uffizi,Italy,Florence,2361732.0,43.766667,11.25
-Inner Mongolia Museum,China,Hohhot,2361000.0,40.810556,111.652222
-Auschwitz-Birkenau State Museum,Austria,Oświęcim,2320000.0,,
-Three Gorges Museum,China,Chongqing,2301900.0,29.562778,106.552778
-National Folk Museum of Korea,Korea,Seoul,2286276.0,37.5985,126.9783
-Liaoning Provincial Museum,China,Shenyang,2280000.0,41.792222,123.432778
-Chengdu Museum,China,Chengdu,2259000.0,30.666667,104.066667
-Guangdong Museum,China,Guangzhou,2234800.0,23.116667,113.25
-Wenzhou Museum,China,Wenzhou,2229900.0,27.999416,120.66682
-National Museum of Scotland,United Kingdom,Edinburgh,2210024.0,55.95,-3.2
-California Science Center,United States,Los Angeles,2200000.0,34.0522222,-118.2427778
-Van Gogh Museum,Netherlands,Amsterdam,2100000.0,52.35,4.916667
-Shanghai Museum,China,Shanghai,2070270.0,31.045556,121.399722
-Suzhou Museum,China,Suzhou,2030000.0,31.311389,120.618056
-National Museum of African American History and Culture,United States,Washington,2000000.0,38.895,-77.0366667
-Alte Pinakothek (Munich),Germany,Munich,,48.15,11.5833
-Museum of the Royal Tombs of Sipán,Peru,Chiclayo,,-6.7736111,-79.8416667
-National Museum (Kraków),Poland,Krakow,,,
-Uffizi (Florence),Italy,Florence,,43.766667,11.25
+The Louvre (Paris),France,Paris,9600000,48.866667,2.333333
+National Museum of China,China,Beijing,7390000,39.928889,116.388333
+Vatican Museums,Holy See,Vatican City,6882931,0,0
+Museum of Modern Art (New York),United States,New York,6479548,40.7141667,-74.0063889
+British Museum,United Kingdom,London,6239983,51.514125,-0.093689
+Tate Museums,United Kingdom,London,6098340,51.514125,-0.093689
+National Gallery (London),United Kingdom,London,6011007,51.514125,-0.093689
+Natural History Museum,United Kingdom,London,5424000,51.514125,-0.093689
+American Museum of Natural History,United States,New York,5000000,40.7141667,-74.0063889
+State Hermitage Museum,Russia,Saint Petersburg,4956529,59.894444,30.264167
+Shanghai Science and Technology Museum,China,Shanghai,4824000,31.045556,121.399722
+Museo Reina Sofía,Spain,Madrid,4425699,40.408566,-3.69222
+Guangdong Museum of Revolutionary History,China,Guangzhou,4257100,23.116667,113.25
+National Museum of Natural History,United States,Washington,4200000,38.895,-77.0366667
+Nanjing Museum,China,Nanjing,4169000,32.061667,118.777778
+Zhejiang Museum,China,Hangzhou,4150000,30.29365,120.161419
+Victoria and Albert Museum,United Kingdom,London,3932938,51.514125,-0.093689
+China Science and Technology Museum,China,Beijing,3891000,39.928889,116.388333
+Military Museum of the Chinese People's Revolution,China,Beijing,3870000,39.928889,116.388333
+National Palace Museum,Taiwan,Taipei,3832373,25.0391667,121.525
+Shenzhen Museum,China,Shenzhen,3826000,22.533333,114.133333
+Musée d'Orsay,France,Paris,3651616,48.866667,2.333333
+Museo del Prado,Spain,Madrid,3497345,40.408566,-3.69222
+Mevlana Museum,Turkey,Konya,3464155,37.871354,32.484636
+Xi'an Museum,China,Xian,3420000,34.258333,108.928611
+National Museum of Korea,Korea,Seoul,3354161,37.5985,126.9783
+Centre Pompidou,France,Paris,3273867,48.866667,2.333333
+London Science Museum,United Kingdom,London,3254000,51.514125,-0.093689
+National Air and Space Museum,United States,Washington,3200000,38.895,-77.0366667
+Tianjin Natural History Museum,China,Tianjin,3150000,39.142222,117.176667
+Hunan Museum,China,Changsha,3140000,0,0
+Moscow Kremlin Museums,Russia,Moscow,3101550,55.752222,37.615556
+National Museum of Anthropology,Mexico,Mexico,3086555,19.434167,-99.138611
+National Taiwan Science Education Center,Taiwan,Taipei,3000000,25.0391667,121.525
+Royal Museums Greenwich,United Kingdom,London,2906000,51.514125,-0.093689
+Shaanxi History Museum,China,Xian,2900000,34.258333,108.928611
+Tokyo Metropolitan Art Museum,Japan,Tokyo,2873806,35.685,139.751389
+Somerset House,United Kingdom,London,2841772,51.514125,-0.093689
+Tretyakov Gallery,Russia,Moscow,2835836,55.752222,37.615556
+National Museum of History,Mexico,Mexico,2811646,19.434167,-99.138611
+National Museum of American History,United States,Washington,2800000,38.895,-77.0366667
+Rijksmuseum,Netherlands,Amsterdam,2700000,52.35,4.916667
+Tokyo National Museum,Japan,Tokyo,2684754,35.685,139.751389
+National Museum of Natural Science,Taiwan,Taichung,2650000,24.1433333,120.6813889
+Chongqing Museum of Natural History,China,Chongqing,2624700,29.562778,106.552778
+Centro Cultural Banco do Brasil,Brazil,Rio de Janeiro,2606999,-22.9,-43.233333
+Shanghai Natural History Museum,China,Shanghai,2549000,31.045556,121.399722
+National Museum of Nature and Science,Japan,Tokyo,2460000,35.685,139.751389
+Zhejiang Museum of Natural History,China,Hangzhou,2443000,30.29365,120.161419
+NGV International,Australia,Melbourne,2432883,-37.813938,144.963425
+Hubei Provincial Museum,China,Wuhan,2400000,30.580125,114.273405
+Russian Museum,Russia,Saint Petersburg,2394400,59.894444,30.264167
+Cité des Sciences et de l'Industrie,France,Paris,2370000,48.866667,2.333333
+Galleria degli Uffizi,Italy,Florence,2361732,43.766667,11.25
+Inner Mongolia Museum,China,Hohhot,2361000,40.810556,111.652222
+Auschwitz-Birkenau State Museum,Austria,Oświęcim,2320000,0,0
+Three Gorges Museum,China,Chongqing,2301900,29.562778,106.552778
+National Folk Museum of Korea,Korea,Seoul,2286276,37.5985,126.9783
+Liaoning Provincial Museum,China,Shenyang,2280000,41.792222,123.432778
+Chengdu Museum,China,Chengdu,2259000,30.666667,104.066667
+Guangdong Museum,China,Guangzhou,2234800,23.116667,113.25
+Wenzhou Museum,China,Wenzhou,2229900,27.999416,120.66682
+National Museum of Scotland,United Kingdom,Edinburgh,2210024,55.95,-3.2
+California Science Center,United States,Los Angeles,2200000,34.0522222,-118.2427778
+Van Gogh Museum,Netherlands,Amsterdam,2100000,52.35,4.916667
+Shanghai Museum,China,Shanghai,2070270,31.045556,121.399722
+Suzhou Museum,China,Suzhou,2030000,31.311389,120.618056
+National Museum of African American History and Culture,United States,Washington,2000000,38.895,-77.0366667
+Alte Pinakothek (Munich),Germany,Munich,0,48.15,11.5833
+Museum of the Royal Tombs of Sipán,Peru,Chiclayo,0,-6.7736111,-79.8416667
+National Museum (Kraków),Poland,Krakow,0,0,0
+Uffizi (Florence),Italy,Florence,0,43.766667,11.25
 Hermitage (St Petersburg),Russia,Saint Petersburg,,59.894444,30.264167
-Convent of Santa Maria delle Grazie (Milan),Italy,Milan,,45.466667,9.2
-Museum of Black Civilizations,Senegal,Dakar,,14.6708333,-17.4380556
-Pinacoteca Ambrosiana (Milan),Italy,Milan,,45.466667,9.2
-Scottish National Gallery (Edinburgh),United Kingdom,Edinburgh,,55.95,-3.2
-National Gallery of Art (Washington),United States,Washington,,38.895,-77.0366667
-Bangkok National Museum,Thailand,Bangkok,,13.753979,100.501444
+Convent of Santa Maria delle Grazie (Milan),Italy,Milan,0,45.466667,9.2
+Museum of Black Civilizations,Senegal,Dakar,0,14.6708333,-17.4380556
+Pinacoteca Ambrosiana (Milan),Italy,Milan,0,45.466667,9.2
+Scottish National Gallery (Edinburgh),United Kingdom,Edinburgh,0,55.95,-3.2
+National Gallery of Art (Washington),United States,Washington,0,38.895,-77.0366667
+Bangkok National Museum,Thailand,Bangkok,0,13.753979,100.501444
